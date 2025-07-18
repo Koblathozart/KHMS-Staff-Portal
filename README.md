@@ -1,6 +1,6 @@
 # KHMS-Staff-Portal
 This is a staff portal web application for basic schools.
-
+The initial user is going to be Kids' Haven Montessori School(KHMS)
 📝 Project Description:
 The Staff Portal is a web-based application designed to streamline staff management within a school environment. It allows school administrators and staff to efficiently handle internal processes such as staff registration, information updates, department assignments, and role-based access.
 
